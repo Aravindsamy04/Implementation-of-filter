@@ -19,8 +19,8 @@ Define a Laplacian kernel (kernel3) and perform 2D convolution filtering on the 
 ### Step 6
 Apply the Laplacian operator to the RGB image (image2) using OpenCV's cv2.Laplacian function.Display the resulting image (new_image) titled 'Laplacian Operator' using Matplotlib's imshow function.
 ## Program:
-### Developed By   :Alagu nachiyar k
-### Register Number:212222240006
+### Developed By   :ARAVIND SAMY.P
+### Register Number:212222230011
 
 
 ### 1. Smoothing Filters
@@ -119,30 +119,30 @@ plt.title('Laplacian Operator')
 ### 1. Smoothing Filters
 i) Using Averaging Filter
 
-![image](https://github.com/Nachiyarr/Implementation-of-filter/assets/113497340/5775dd1f-ff6e-44f9-89f8-ee4106be66b2)
+![image](https://github.com/Aravindsamy04/Implementation-of-filter/assets/113497037/44795efa-6076-42e1-a8b8-626f5b42eba2)
 
 
 ii) Using Weighted Averaging Filter
 
-![image](https://github.com/Nachiyarr/Implementation-of-filter/assets/113497340/ef68684f-345c-423a-84f9-749de4dd1ef6)
+![image](https://github.com/Aravindsamy04/Implementation-of-filter/assets/113497037/793f3477-8399-4d41-9363-aab4897e7d90)
 
 iii) Using Gaussian Filter
 
-![image](https://github.com/Nachiyarr/Implementation-of-filter/assets/113497340/58637700-5b81-45ae-bc8d-a5c310b6c6aa)
+![image](https://github.com/Aravindsamy04/Implementation-of-filter/assets/113497037/e09c1d87-7d0f-4e69-88c7-f9e0180e8d76)
 
 
 iv) Using Median Filter
 
-![image](https://github.com/Nachiyarr/Implementation-of-filter/assets/113497340/24454385-54cb-49ae-9935-770729111d67)
+![image](https://github.com/Aravindsamy04/Implementation-of-filter/assets/113497037/d6e92704-91b0-4967-9255-91b27c3a4d84)
 
 ### 2. Sharpening Filters
 i) Using Laplacian Kernal
 
-![image](https://github.com/Nachiyarr/Implementation-of-filter/assets/113497340/4147208e-20c0-4bfd-9fdf-5af75b78bf90)
+![image](https://github.com/Aravindsamy04/Implementation-of-filter/assets/113497037/459ebfb2-b83d-4489-bee1-c521b821f5e7)
 
 ii) Using Laplacian Operator
 
-![image](https://github.com/Nachiyarr/Implementation-of-filter/assets/113497340/33f54523-d450-4a0f-b680-783dfb2dd05c)
+![Uploading image.png…]()
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
